@@ -2,6 +2,9 @@
 
 This repository provides a structured template for an AI, ML, or Generative AI project journey.
 
+## Current Project Concept
+A lightweight AI Study Companion web app that helps learners break study goals into manageable tasks and track progress.
+
 ## Repository Structure
 1. Brainstorming & Ideation
 2. Requirement Analysis
@@ -19,5 +22,5 @@ Run the starter application with:
 npm start
 ```
 
-## Notes
-Use the phase folders and supporting markdown files to document progress, plans, and deliverables.
+## Next Step
+Document requirements and begin implementing the first study-planning features.
